@@ -347,7 +347,7 @@ Special thanks to:
 
 ## 📚 Additional Resources
 
-- [Official Thesis Document (PDF)](https://amslaurea.unibo.it/id/eprint/32723/)
+- [Official Thesis Publication](https://amslaurea.unibo.it/id/eprint/32723/)
 - [apt-cacher-ng Documentation](https://www.unix-ag.uni-kl.de/~bloch/acng/)
 - [WireGuard Documentation](https://www.wireguard.com/quickstart/)
 - [Vagrant Documentation](https://www.vagrantup.com/docs)
